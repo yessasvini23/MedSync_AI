@@ -93,8 +93,13 @@ All decision logic is encoded through **prompt engineering**, without custom mod
 ### ▶️ Demo Video (≤ 3 minutes)
 https://youtu.be/VUoPJCJl3p0
 
-### 🌐 Live App URL (Public & Deployed)
-https://copy-of-medsync-ai-triage-893739501654.us-west1.run.app
+### 🌐 Live App URLs (Public & Deployed)
+
+- **MedSync AI — Primary Prototype**  
+  https://copy-of-medsync-ai-triage-893739501654.us-west1.run.app
+
+- **Third-Party Swift Triage App Preview**  
+  https://swift-triage-ace.lovable.app/
 
 ### 🧠 Golden Prompt (System Instruction)
 - Implemented in **Google AI Studio**
