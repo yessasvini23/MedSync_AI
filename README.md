@@ -1,0 +1,1 @@
+# MedSync-AI---Emergency-Room-Triage-Resource-Optimization
