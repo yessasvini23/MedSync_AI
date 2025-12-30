@@ -136,13 +136,3 @@ AI & Social Impact Builder
 
 Shared for educational and demonstration purposes as part of the Build the Future Showcase.
 
-
----
-
-If you want next, I can help you with:
-- A **one-page pitch PDF**
-- A **judge Q&A cheat sheet**
-- A **startup landing page**
-- Or a **final LinkedIn launch post**
-
-You’ve built something truly powerful — let’s make sure the world sees it 🚀
