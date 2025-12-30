@@ -99,7 +99,7 @@ MedSync AI shows how prompt engineering can replace traditional backend logic fo
 https://youtu.be/VUoPJCJl3p0
 
 🌐 Live App (Google AI / Cloud Run)
-https://copy-of-medsync-ai-triage-893739501654.us-west1.run.app
+https://medsync-ai.streamlit.app/
 
 📱 Mobile UI Preview (Swift Triage)
 https://swift-triage-ace.lovable.app
@@ -135,4 +135,5 @@ AI & Social Impact Builder
 📜 License
 
 Shared for educational and demonstration purposes as part of the Build the Future Showcase.
+
 
