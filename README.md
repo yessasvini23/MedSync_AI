@@ -79,22 +79,16 @@ All system logic lives inside the **prompt itself**, making the AI the core deci
 
 
 ✨ What Makes MedSync AI Unique
-
 Prompt-as-Logic Architecture — the system instruction is the application
-
 Protocol-Aware Reasoning — safety rules embedded directly in the prompt
-
 Explainable AI — every decision includes reasoning
-
 Disaster-Ready — adapts to mass-casualty scenarios
-
 No Fine-Tuning — built entirely with structured prompting
 
 MedSync AI shows how prompt engineering can replace traditional backend logic for safety-critical systems.
 
 
 🎥 Live Demo & Prototype
-
 🎬 Demo Video (≤ 3 minutes)
 https://youtu.be/VUoPJCJl3p0
 
@@ -110,6 +104,7 @@ Google AI Studio – prompt design, testing, and live sharing
 Gemini – AI reasoning for triage, risk, and routing
 Prompt Engineering – system-level logic and safety rules
 Synthetic Healthcare Data – safe simulation of patient and hospital data
+
 
 👥 Who It’s Built For
 Paramedics and EMTs
@@ -131,9 +126,6 @@ With real hospital integrations, MedSync AI could become critical emergency infr
 Yessasvini Sudarshanam
 AI & Social Impact Builder
 
-
 📜 License
-
 Shared for educational and demonstration purposes as part of the Build the Future Showcase.
-
 
